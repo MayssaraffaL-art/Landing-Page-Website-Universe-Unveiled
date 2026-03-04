@@ -39,7 +39,7 @@
 ## 📂 Folder Structure
 
 ```text
-├── assets/          # Images, icons, and visual assets
+├── Image/          # Images Landing Page Preview
 ├── css/             # Stylesheets (style.css / scss)
 ├── js/              # JavaScript logic
 └── index.html       # Main entry point
